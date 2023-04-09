@@ -5,5 +5,5 @@
 
 ## Detials and Classes
 
-We host live sessions on Wed, Thur, and Friday(in development...)
+* We host live sessions on Wed, Thur, and Friday(in development...)
 
