@@ -1,9 +1,9 @@
- C Programming Learning and Hangout
+# C Programming Learning and Hangout
 
 "THE ONLY LIMIT TO OUR REALIZATION OF TOMORROW WILL BE OUR DOUBTS OF TODAY." ~ Franklind D. Roosevelt
-####
 
-## Deatils and classes
+
+## Detials and Classes
 
 We host live sessions on Wed, Thur, and Friday(in development...)
 
