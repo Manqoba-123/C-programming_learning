@@ -17,3 +17,13 @@ Even extra links and notes will be made available, if you find any useful notes 
 	**Make sure you check your time zone**
 * Whatsapp group [link](https://chat.whatsapp.com/IPZAiFeg7dVCkZ1hH28pgj)
 
+## Resources
+
+* [youtube](https://youtu.be/EjavYOFoJJ0)
+* W3Schools [link](https://www.w3schools.com)
+* Ansi c (google drive link cominmg soon)
+
+## Authors
+
+ALX students
+
