@@ -10,14 +10,24 @@ Even extra links and notes will be made available, if you find any useful notes 
 
 Please download the files in pdf and doc format as GitHub opens if they are in txt format
 
-## Detials and Classes
+## Detials, Classes and Updates
 
 * We host live sessions on Mon, Wed, and Fri(in development...) on [google meets](https://meet.google.com/iia-arzj-dfh)
+
 * Time
    	- 16:00 to 18:30 GMT
 	
 	**Make sure you check your time zone**
 * Whatsapp group [link](https://chat.whatsapp.com/IPZAiFeg7dVCkZ1hH28pgj)
+
+* **NOTES**
+	- We will begin on 19 April 2023
+
+	- **Topics to be covered**
+
+	 * Introduction to C
+	 
+	 * Execution process, Variables, Keywords and Identifiers
 
 ## Resources
 
