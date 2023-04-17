@@ -14,6 +14,6 @@ Even extra links and notes will be made available, if you find any useful notes 
 * Time
    	- 16:00 to 18:30 GMT
 	
-**Make sure you check your time zone**
+	**Make sure you check your time zone**
 * Whatsapp group [link](https://chat.whatsapp.com/IPZAiFeg7dVCkZ1hH28pgj)
 
