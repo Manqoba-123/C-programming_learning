@@ -25,9 +25,9 @@ Please download the files in pdf and doc format as GitHub opens if they are in t
 
 	- **Topics to be covered**
 
-	 * Introduction to C
+	 	* Introduction to C
 	 
-	 * Execution process, Variables, Keywords and Identifiers
+		 * Execution process, Variables, Keywords and Identifiers
 
 ## Resources
 
