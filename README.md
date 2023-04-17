@@ -4,7 +4,7 @@
 
 ## Description
 
-We will be using this repo to upload exercises and solutions, Keep note of **WE WILL NOT BE DOING ALX BASED EXERCISES AS IT IS FORBIDDEN TO SHARE SOLUTIONS**.
+We will be using this repo to upload exercises and solutions, Keep note of `**WE WILL NOT BE DOING ALX BASED EXERCISES AS IT IS FORBIDDEN TO SHARE SOLUTIONS**`.
 
 Even extra links and notes will be made available, if you find any useful notes or links share over the WhatsApp group.
 
@@ -33,7 +33,7 @@ Please download the files in pdf and doc format as GitHub opens if they are in t
 
 * [youtube](https://youtu.be/EjavYOFoJJ0)
 * W3Schools [link](https://www.w3schools.com)
-* Ansi c (google drive link coming soon)
+* Ansi C (google drive link coming soon)
 
 ## Authors
 
