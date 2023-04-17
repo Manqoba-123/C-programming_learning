@@ -21,7 +21,7 @@ Even extra links and notes will be made available, if you find any useful notes 
 
 * [youtube](https://youtu.be/EjavYOFoJJ0)
 * W3Schools [link](https://www.w3schools.com)
-* Ansi c (google drive link cominmg soon)
+* Ansi c (google drive link coming soon)
 
 ## Authors
 
