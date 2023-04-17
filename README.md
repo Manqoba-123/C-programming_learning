@@ -4,7 +4,7 @@
 
 ## Description
 
-We will be using this repo to upload exercises and solutions, Keep note of ` **WE WILL NOT BE DOING ALX BASED EXERCISES AS IT IS FORBIDDEN TO SHARE SOLUTIONS** `.
+We will be using this repo to upload exercises and solutions, Keep note of ` WE WILL NOT BE DOING ALX BASED EXERCISES AS IT IS FORBIDDEN TO SHARE SOLUTIONS `.
 
 Even extra links and notes will be made available, if you find any useful notes or links share over the WhatsApp group.
 
