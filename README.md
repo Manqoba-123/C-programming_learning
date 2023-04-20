@@ -8,7 +8,7 @@ We will be using this repo to upload exercises and solutions, Keep note of ` WE 
 
 Even extra links and notes will be made available, if you find any useful notes or links share over the WhatsApp group.
 
-Please download the files in pdf and doc format as GitHub opens if they are in txt format
+Please download the pdf and doc format files if they fail to open.
 
 ## Detials, Classes and Updates
 
