@@ -21,7 +21,7 @@ Please download the files in pdf and doc format as GitHub opens if they are in t
 * Whatsapp group [link](https://chat.whatsapp.com/IPZAiFeg7dVCkZ1hH28pgj)
 
 * **NOTES**
-	- We will begin on 19 April 2023
+	- **Due to South Africa's and Nigeria's massive power outage classes are delayed to begin as we only have few instructurs to guide us on live classes**
 
 	- **Topics to be covered**
 
